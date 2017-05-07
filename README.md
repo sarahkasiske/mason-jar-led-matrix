@@ -21,7 +21,8 @@ The Mason Jar LED Matrix is a four by four matrix of 16 LEDs encased within 16 m
 
 ### Components 
 * 16 RGB LEDs 
-* 16 buttons *Arduino Mega
+* 16 buttons 
+* Arduino Mega
 
 ## Research
 Before I began my project I started conducting some research to decide how I should create the LED matrix. I knew the LEDs would need to be placed in some kind of containers that would fit in a frame to hold them all together. To find some ideas I decided to go to the Container Store. I found several interesting options including a hockey puck holder, magnetic containers and different jars.
