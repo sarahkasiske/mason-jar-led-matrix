@@ -37,7 +37,7 @@ After contemplating the idea of using a mason jar I went home and began testing 
 
 ![LED Connected to Button](https://github.com/sarahkasiske/mason-jar-led-matrix/blob/master/img/IMG_2813.JPG)
 
-[View Prototype](link here)
+[View Prototype](https://www.youtube.com/watch?v=xtQmtHKlAqc)
 
 ## Building
 Knowing the mason jars would work I began building a frame for the matrix. I had a few wooden crates I was not using so I took one apart and used the wood to build the frame. To build the frame I first laid out the mason jars and measured to decide how large the frame should be. 
@@ -47,9 +47,8 @@ Knowing the mason jars would work I began building a frame for the matrix. I had
 When I knew what size the frame should be I began building it from the outside in. I nailed together four boards to form the outside of the frame and then built a hidden shelf to hold the Arduino. 
 
 ![Wooden Frame](https://github.com/sarahkasiske/mason-jar-led-matrix/blob/master/img/IMG_2867.JPG)
-![Frame with Shelf](https://github.com/sarahkasiske/mason-jar-led-matrix/blob/master/img/IMG_2889.JPG)
-
-![Frame With Painted Jars Inside](https://github.com/sarahkasiske/mason-jar-led-matrix/blob/master/img/IMG_2933.JPG)
+![Frame With Shelf](https://github.com/sarahkasiske/mason-jar-led-matrix/blob/master/img/IMG_2889.JPG)
+![Painted Frame](https://github.com/sarahkasiske/mason-jar-led-matrix/blob/master/img/IMG_2895.JPG)
 
 When the frame was completed I began working with the mason jars. While working with the prototype I noticed that because the jars are glass too much light was leaving through the sides of the jars. This made the light coming from the LEDs less direct. To alleviate this issue I painted the insides of the mason jars to direct the light from the LEDs outward. 
 
@@ -69,8 +68,14 @@ After completing the encasement for the leds I began soldering female headers to
 ## Wiring
 When all of the LEDs and buttons were soldered I began wiring everything together. I started by connecting all of LEDs together in a string. 
 
-![Strand of LED Lights](https://github.com/sarahkasiske/mason-jar-led-matrix/blob/master/img/IMG_2957.JPG)
 [View LED Strand Test](https://www.youtube.com/edit?o=U&video_id=U42lpVCshm4)
+
+![Strand of LED Lights](https://github.com/sarahkasiske/mason-jar-led-matrix/blob/master/img/IMG_2957.JPG)
+![Fame with Wires](https://github.com/sarahkasiske/mason-jar-led-matrix/blob/master/img/IMG_3018%202.JPG)
+![Fame with Wires](https://github.com/sarahkasiske/mason-jar-led-matrix/blob/master/img/IMG_3021.JPG)
+![Fame with Wires](https://github.com/sarahkasiske/mason-jar-led-matrix/blob/master/img/IMG_3022%202.JPG)
+![Frame With Painted Jars Inside](https://github.com/sarahkasiske/mason-jar-led-matrix/blob/master/img/IMG_3017%202.JPG)
+
 
 After ensuring all the LEDs were working I began wiring the buttons and LEDs into the frame. I used a hot glue gun to glue the buttons and wire to the frame to keep track of where the wires were going and to limit the chances the buttons or LEDs would be accidentally disconnected. 
 
@@ -79,6 +84,7 @@ After ensuring all the LEDs were working I began wiring the buttons and LEDs int
 When all of the components were working together I began working on the code. I started with an example from the NeoPixel library and began changing things to make the LEDs function similarly to my initial concept. Unfortunately, with the time I spent building the matrix I did not leave myself much time to work on the code. Because of time constraints I was not able to get the matrix working exactly how I wanted. However, I was able to get all of the buttons working so that when any button is pressed the lights will all change. Hopefully in the next iteration of the matrix I will be able to code each button to turn on and off an individual LED. 
 
 [Mason Jar LED Matrix Test 1](https://www.youtube.com/edit?o=U&video_id=P4bbF3Muljc4)
+
 [Mason Jar LED Matrix Test 2](https://www.youtube.com/edit?o=U&video_id=JyYgt92AW_c)
 
-[link](link here)
+[Mason Jar LED Matrix Test 3](https://www.youtube.com/watch?v=V9oEZD9fRm8)
