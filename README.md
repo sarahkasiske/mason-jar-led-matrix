@@ -35,9 +35,9 @@ After analysing some different options I decided to use mason jars for my projec
 ## Prototype
 After contemplating the idea of using a mason jar I went home and began testing with an LED, button and jar to see if it would work. I was able to get everything working relatively easily and the jar seemed to be working well with the button to turn the LED on and off. 
 
-![LED Connected to Button](https://github.com/sarahkasiske/mason-jar-led-matrix/blob/master/img/IMG_2813.JPG)
-
 [View Prototype](https://www.youtube.com/watch?v=xtQmtHKlAqc)
+
+![LED Connected to Button](https://github.com/sarahkasiske/mason-jar-led-matrix/blob/master/img/IMG_2813.JPG)
 
 ## Building
 Knowing the mason jars would work I began building a frame for the matrix. I had a few wooden crates I was not using so I took one apart and used the wood to build the frame. To build the frame I first laid out the mason jars and measured to decide how large the frame should be. 
@@ -56,7 +56,7 @@ When the frame was completed I began working with the mason jars. While working 
 
 The next step in my process was to create a backing to attach the buttons and jars to. I decided to use white foam board to create the backing. I used two layers of foam board. One to go underneath the jars and one to go around them, holding the jars in place.
 
-![Foam Board with Circles Cut Out](https://github.com/sarahkasiske/mason-jar-led-matrix/blob/master/img/IMG_2930.JPGG)
+![Foam Board with Circles Cut Out](https://github.com/sarahkasiske/mason-jar-led-matrix/blob/master/img/IMG_2930.JPG)
 ![Frame With Painteed Jars Inside](https://github.com/sarahkasiske/mason-jar-led-matrix/blob/master/img/IMG_2933.JPG)
 
 ## Soldering
@@ -74,7 +74,7 @@ When all of the LEDs and buttons were soldered I began wiring everything togethe
 ![Fame with Wires](https://github.com/sarahkasiske/mason-jar-led-matrix/blob/master/img/IMG_3018%202.JPG)
 ![Fame with Wires](https://github.com/sarahkasiske/mason-jar-led-matrix/blob/master/img/IMG_3021.JPG)
 ![Fame with Wires](https://github.com/sarahkasiske/mason-jar-led-matrix/blob/master/img/IMG_3022%202.JPG)
-![Frame With Painted Jars Inside](https://github.com/sarahkasiske/mason-jar-led-matrix/blob/master/img/IMG_3017%202.JPG)
+![Frame With Painted Jars Inside](https://github.com/sarahkasiske/mason-jar-led-matrix/blob/master/img/IMG_3017.jpg)
 
 
 After ensuring all the LEDs were working I began wiring the buttons and LEDs into the frame. I used a hot glue gun to glue the buttons and wire to the frame to keep track of where the wires were going and to limit the chances the buttons or LEDs would be accidentally disconnected. 
